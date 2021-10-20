@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jared-Hernandez
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python, openSSL.
+- 🌱 I’m currently learning C++ and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
